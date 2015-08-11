@@ -1,0 +1,21 @@
+body
+{
+	background-color : #F5F5F5;
+	opacity : 0.9;
+}
+
+section
+{
+
+}
+
+footer
+{
+	border: 1px solid green;
+	box-shadow: 6px 6px 6px black;
+	border-radius: 10px;
+	margin-top : 20px;
+	text-align : center;
+	background-color : #B0C4DE;
+	opacity : 0.5;
+}
