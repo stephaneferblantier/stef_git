@@ -6,7 +6,12 @@ body
 
 section
 {
-
+	border: 1px solid black;
+	text-align : justify;
+	margin-top : 10px;
+	margiin-left : 10px;
+	border-radius: 10px;
+	height : relative;
 }
 
 footer
